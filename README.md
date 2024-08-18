@@ -1,2 +1,3 @@
 # Adam
-performance mode that kill bankground procces and clear cache files
+Performance For PC That Kill Background Procces And Clear Cache Files
+man wtf i just did
